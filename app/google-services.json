@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328234496340",
+    "firebase_url": "https://all-safe-india-50ce3.firebaseio.com",
+    "project_id": "all-safe-india-50ce3",
+    "storage_bucket": "all-safe-india-50ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328234496340:android:fc213b03d53ed66c5e98c1",
+        "android_client_info": {
+          "package_name": "com.example.all_safe_india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328234496340-h6jngq5tpui87t4prnciheute6d5ebg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.all_safe_india",
+            "certificate_hash": "92eaa1bbaa8cbfd5ca26bbff1856bc4a98b1789e"
+          }
+        },
+        {
+          "client_id": "328234496340-lnmjlrothvefe5ul1l7hulb96vosjj0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lMd8rkyDol-aICcHp7NOtIEovfrAqi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328234496340-lnmjlrothvefe5ul1l7hulb96vosjj0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
